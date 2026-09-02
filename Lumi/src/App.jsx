@@ -3,6 +3,7 @@ import reactLogo from "./assets/react.svg";
 import mochi from "/Users/angelaliu/Desktop/Lumi/Lumi/src-tauri/icons/clipart3904090.png";
 import { invoke } from "@tauri-apps/api/core";
 import "./App.css";
+import Mochi from "./Mochi"
 
 function App() {
   return (
