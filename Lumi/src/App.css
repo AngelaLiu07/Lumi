@@ -22,11 +22,6 @@
   -webkit-text-size-adjust: 100%;
 }
 
-.center-img {
-  pointer-events: auto;
-}
-
-
 .welcome-btn {
   display : block;
   margin-right : auto;
