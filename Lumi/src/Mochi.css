@@ -10,7 +10,7 @@
 
 @keyframes toddle {
     from {transform:rotate(15deg);}
-    from {transform:rotate(-15deg);}
+    to {transform:rotate(-15deg);}
 }
 
 .toddle{

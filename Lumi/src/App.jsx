@@ -68,7 +68,7 @@ function App() {
         data-tauri-drag-region>
           Celebrating
         </button>
-E
+
         <button onClick = {() => {
           setMood("tired")
           setMessage("I'm...tired...zzz...")
