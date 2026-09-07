@@ -1,4 +1,27 @@
+.speech-bubble {
+  position: relative;
+  margin-right: auto;
+  margin-left: auto;
+  rotate:1deg;
+  height : auto;
+  width : fit-content;
+  padding : 10px 10px;
+  background: rgba(233, 232, 232, 0.376);
+  color: rgba(233, 232, 232, 0.376);
+  max-width: 500px;
+  border-radius: 20px;
+}
 
+.speech-bubble::after {
+  content: "";
+  position : absolute;
+  top : 100%;
+  left: 60px;
+  border-style: solid;
+  border-width: 8px 15px 8px 5px;
+  border-color: rgba(233, 232, 232, 0.376) transparent transparent transparent;
+
+}
 .logo.vite:hover {
   filter: drop-shadow(0 0 2em #747bff);
 }

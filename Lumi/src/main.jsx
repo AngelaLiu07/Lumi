@@ -6,7 +6,6 @@ import Mochi from "./Mochi";
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <App />
-    <Mochi mood = "happy"/>
   </React.StrictMode>,
 ); 
 
