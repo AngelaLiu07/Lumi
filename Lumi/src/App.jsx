@@ -5,6 +5,7 @@ import { invoke } from "@tauri-apps/api/core";
 import "./App.css";
 import Mochi from "./Mochi"
 import "./Mochi.css";
+import { runAgent } from "./Agent.js";
 
 function App() {
   const [mood, setMood] = useState("calm");
@@ -20,6 +21,13 @@ function App() {
     return () => 
       clearTimeout(timer);
     }, [message]);
+  
+  const context = {
+    eventsToday: 1,
+    tasksDueSoon: 1,
+    completed: 4
+  }
+
 
   return (
     <main className="container">
@@ -35,51 +43,21 @@ function App() {
         </p>
       </blockquote>
       )}
+
       <Mochi mood = {mood}></Mochi>
-    
+
       <div>
-        <button onClick = {
-          () => {
-            setMood("happy");
-          setMessage("Well done!!")
-        }} data-tauri-drag-region>
-          Happy
-        </button> 
-        
-        <button onClick = {() => {
-          setMood("calm");
-        setMessage("free time...")
-        }} data-tauri-drag-region>
-          Calm
+        <button onClick = { () => {
+            const decision = runAgent(context);
+            setMessage(decision.message)
+            setMood(decision.mood);
+          }} data-tauri-drag-region>
+          Click to see whath happens!
         </button>
-
-        <button onClick = {() => {
-          setMood("concerned");
-          setMessage("Don't forget to take time for yourself!")
-        }} 
-          data-tauri-drag-region>
-          Concerned
-        </button>
-
-        <button onClick = {() => {
-          setMood("celebrating");
-          setMessage("AMAZING! YOU just did that!")
-        }} 
-        data-tauri-drag-region>
-          Celebrating
-        </button>
-
-        <button onClick = {() => {
-          setMood("tired")
-          setMessage("I'm...tired...zzz...")
-        }} 
-        data-tauri-drag-region>
-          Tired
-        </button>
-      
       </div>
     </main>
   );
+  
 }
 
 
