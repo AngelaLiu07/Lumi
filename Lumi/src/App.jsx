@@ -21,6 +21,22 @@ function App() {
     return () => 
       clearTimeout(timer);
     }, [message]);
+
+  useEffect(() => {
+    // go to this address
+    console.log("Trying to contact backend...");
+    fetch("http://localhost:3000/health")
+      // open the sealed package and turn it back into a JSON object
+      .then((response) => response.json())
+      // read the package and print to console
+      .then((data) => {
+        console.log(data);
+      })
+      .catch((error) => {
+        console.error("Backend error", error)
+      })
+  }, []);
+  // The [] tells the machine to run only once on startup
   
   const context = {
     eventsToday: 1,
@@ -52,7 +68,7 @@ function App() {
             setMessage(decision.message)
             setMood(decision.mood);
           }} data-tauri-drag-region>
-          Click to see whath happens!
+          Click to see what happens!
         </button>
       </div>
     </main>
