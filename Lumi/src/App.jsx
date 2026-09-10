@@ -5,7 +5,6 @@ import { invoke } from "@tauri-apps/api/core";
 import "./App.css";
 import Mochi from "./Mochi"
 import "./Mochi.css";
-import { runAgent } from "./Agent.js";
 
 function App() {
   const [mood, setMood] = useState("calm");
@@ -21,27 +20,12 @@ function App() {
     return () => 
       clearTimeout(timer);
     }, [message]);
-
-  useEffect(() => {
-    // go to this address
-    console.log("Trying to contact backend...");
-    fetch("http://localhost:3000/health")
-      // open the sealed package and turn it back into a JSON object
-      .then((response) => response.json())
-      // read the package and print to console
-      .then((data) => {
-        console.log(data);
-      })
-      .catch((error) => {
-        console.error("Backend error", error)
-      })
-  }, []);
   // The [] tells the machine to run only once on startup
   
   const context = {
-    eventsToday: 1,
-    tasksDueSoon: 1,
-    completed: 4
+    eventsToday: 10,
+    tasksDueSoon: 8,
+    completed: 3
   }
 
 
@@ -63,8 +47,17 @@ function App() {
       <Mochi mood = {mood}></Mochi>
 
       <div>
-        <button onClick = { () => {
-            const decision = runAgent(context);
+        <button onClick = {async () => {
+            const response = await fetch("http://localhost:3000/decision", {
+              method: "POST",
+              headers: {
+                "Content-Type": "application/json"
+              },
+              body: JSON.stringify(context)
+            });
+
+            const decision = await response.json();
+            
             setMessage(decision.message)
             setMood(decision.mood);
           }} data-tauri-drag-region>
@@ -73,7 +66,6 @@ function App() {
       </div>
     </main>
   );
-  
 }
 
 
