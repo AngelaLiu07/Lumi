@@ -9,6 +9,19 @@ import "./Mochi.css";
 function App() {
   const [mood, setMood] = useState("calm");
   const [message, setMessage] = useState("");
+  
+  useEffect(() => {
+    async function getLatest() {
+      const response = await fetch("http://localhost:3000/memory/latest");
+      const latest = await response.json();
+      if (latest) {
+        setMood(latest.mood);
+        setMessage(latest.message);
+      }
+    }
+    getLatest();
+  }, []);
+
   useEffect(() => {
     if (message === "") {
       return;
