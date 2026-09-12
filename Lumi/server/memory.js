@@ -2,7 +2,11 @@ const fs = require("fs");
 
 
 function loadMemory() {
-    raw_entries = fs.readFileSync("./memory.json");
+    if (!fs.existsSync("./memory.json")) {
+        return [];
+    }
+
+    const raw_entries = fs.readFileSync("./memory.json", "utf8");
     return JSON.parse(raw_entries);
 }
 
