@@ -1,222 +1,222 @@
 [
   {
-    "timestamp": "2026-09-12T15:31:47-07:00",
-    "observation": {
-      "mood": "calm",
-      "message": "User has steadily completed 5 tasks today, leaving just three study items on an open schedule before dinner at 6:00 PM."
-    },
-    "proposedAction": "Offer a gentle, reassuring message encouraging them to take a deep breath and work through the remaining reviews at an unhurried, peaceful pace.",
-    "finalAction": "Send a tranquil and supportive note reminding them to breathe easy and pace themselves comfortably through the final study tasks.",
-    "message": "Take a deep breath and relax your shoulders—you've already handled five tasks today and have plenty of breathing room. Take your time with these last few reviews; there's no rush at all before dinner.",
-    "summary": "Delivered a serene, comforting message encouraging a peaceful and unhurried pace for their final review tasks before dinner."
-  },
-  {
-    "timestamp": "2026-09-12T15:32:18-07:00",
-    "observation": {
-      "mood": "celebrating",
-      "message": "User has generated substantial positive momentum with 5 completed tasks, creating an ideal opportunity to maximize their evening well-being by resolving the remaining 3 reviews."
-    },
-    "proposedAction": "Highlight the high payoff of finishing the remaining three tasks now to produce the greatest net relaxation and happiness for the rest of the evening.",
-    "finalAction": "Deliver an uplifting message celebrating their strong accomplishment and motivating them to secure maximum evening satisfaction by wrapping up the final reviews.",
-    "message": "Five tasks completed is an incredible return on your day! Putting in that final bit of focus to wrap up these last three reviews will yield the greatest payoff—giving you total, stress-free enjoyment for dinner and the rest of your night.",
-    "summary": "Celebrated the user's high task completion and highlighted the positive payoff of finishing their remaining reviews to maximize evening well-being."
-  },
-  {
-    "timestamp": "2026-09-12T15:32:49-07:00",
+    "timestamp": "2026-09-12T16:33:46-07:00",
     "observation": {
       "mood": "happy",
-      "message": "User is in great spirits with five tasks completed today, leaving only three CS study items to wrap up before dinner."
+      "message": "User has finished five tasks today with no scheduled events, leaving three computer science review tasks on their list as late afternoon continues."
     },
-    "proposedAction": "Offer a cheerful, motivating note to encourage them through their remaining CS reviews and practice questions.",
-    "finalAction": "Send a warm, cheerful message encouraging them to finish up the last three CS reviews and enjoy their evening.",
-    "message": "You're having such a wonderful, productive day! Just breeze through those last CS reviews and questions, and you can totally kick back and enjoy your dinner.",
-    "summary": "Shared a bright and encouraging note cheering them through their remaining CS study tasks before dinner."
+    "proposedAction": "Propose sending a cheerful note highlighting that they are past the halfway mark and suggesting pairing the CS 3700 review with its practice questions.",
+    "finalAction": "Send a warm, cheerful message commending their progress and suggesting they group the CS 3700 review and practice questions together for a smooth finish.",
+    "message": "Five tasks down with a clear schedule is such a great feeling! Since you're already past the halfway mark, pairing the CS 3700 review with its practice questions could make wrapping up the rest of your list feel like a breeze. Rooting for you all the way!",
+    "summary": "Sent an upbeat, supportive message commending the user's progress and suggesting grouping the CS 3700 review and practice questions together."
   },
   {
-    "timestamp": "2026-09-12T15:33:20-07:00",
-    "observation": {
-      "mood": "calm",
-      "message": "User has made solid headway with five tasks completed today, leaving only three study reviews on a quiet schedule."
-    },
-    "proposedAction": "Suggest taking a tranquil, unhurried approach to work through the final three reviews smoothly.",
-    "finalAction": "Send a peaceful and supportive note encouraging an easy, stress-free pace for completing the remaining study items.",
-    "message": "You're in such a nice, peaceful spot with five tasks already handled. Ease into these last three reviews at your own comfortable pace—there's no rush at all.",
-    "summary": "Delivered a calming note encouraging the user to work through their final study reviews at a relaxed, steady pace."
-  },
-  {
-    "timestamp": "2026-09-12T15:33:50-07:00",
-    "observation": {
-      "mood": "celebrating",
-      "message": "User has achieved impressive momentum with five completed tasks today, leaving just three review items between them and a relaxing evening."
-    },
-    "proposedAction": "Propose an energizing, caring note celebrating their hard work and hyping them up for the final stretch of computer science reviews.",
-    "finalAction": "Deliver an enthusiastic, supportive note celebrating their five finished tasks and cheering them on to conquer the remaining three reviews with pride.",
-    "message": "Look at you go! Five tasks crushed already—that is seriously impressive work today. You've totally got the momentum to knock out these last three CS reviews and finish the day on a massive high. So proud of your hustle!",
-    "summary": "Celebrated the user's impressive achievement of five completed tasks and cheered them on through the remaining three study reviews."
-  },
-  {
-    "timestamp": "2026-09-12T15:34:20-07:00",
+    "timestamp": "2026-09-12T16:33:56-07:00",
     "observation": {
       "mood": "happy",
-      "message": "User has maintained great momentum with five tasks completed today, leaving only three computer science study reviews before dinner."
+      "message": "User has completed five tasks today with zero scheduled events on their calendar, leaving only three computer science review tasks remaining."
     },
-    "proposedAction": "Offer an upbeat, cheerful message celebrating their great progress and encouraging them through the final stretch of reviews.",
-    "finalAction": "Send a warm, cheerful note expressing happiness over their productive day and offering gentle motivation for the last three reviews.",
-    "message": "You're having such a wonderfully productive day! With five tasks already checked off, you're so close to wrapping everything up. Knock out these last three CS reviews whenever you're ready, and then you can kick back and relax.",
-    "summary": "Shared a cheerful and uplifting message commending their steady progress and encouraging them through their remaining study reviews."
+    "proposedAction": "Propose sending a bright, friendly reminder to take a quick physical pause to stretch and hydrate before continuing with the remaining three CS review tasks.",
+    "finalAction": "Send an upbeat, warm note encouraging them to take a refreshing breather after such a productive run before easing into the final three CS reviews.",
+    "message": "You've had such a productive rhythm knocking out five tasks today! Take a quick moment to stretch and grab some water. Whenever you're ready, those last three CS reviews will be smooth sailing.",
+    "summary": "Encouraged the user to take a refreshing stretch and hydration break after their productive streak before tackling the final three CS reviews."
   },
   {
-    "timestamp": "2026-09-12T15:34:51-07:00",
+    "timestamp": "2026-09-12T16:34:26-07:00",
     "observation": {
       "mood": "calm",
-      "message": "User has made steady headway with five tasks completed and zero scheduled events, leaving only three study reviews in a relaxed, low-pressure setting."
+      "message": "User has completed five tasks today with zero scheduled events, leaving three computer science review tasks remaining as late afternoon continues."
     },
-    "proposedAction": "Suggest taking a soothing, unhurried approach to tackle the remaining CS reviews with ample breathing room.",
-    "finalAction": "Send an amiable, gentle message reassuring them that they are in a peaceful spot to finish the last three reviews at their own pace.",
-    "message": "You've already handled five tasks today, so there's zero rush. Take a nice breath and ease through those final three CS reviews at whatever pace feels best for you.",
-    "summary": "Shared a soothing note reassuring the user of their calm position and encouraging an easy pace through the final study tasks."
+    "proposedAction": "Propose suggesting they work through the remaining three CS review tasks in short, relaxed intervals with zero pressure to rush.",
+    "finalAction": "Send a gentle, calming note suggesting they take the final three CS reviews in unhurried intervals to keep the rest of the afternoon relaxed and low-stress.",
+    "message": "With an open calendar for the rest of the day, there's no need to rush. Working in short, relaxed intervals will make finishing those last three CS reviews feel completely manageable. Take it easy and go at your own pace.",
+    "summary": "Suggested working through the remaining three CS reviews in short, relaxed intervals to maintain an unhurried, peaceful pace."
   },
   {
-    "timestamp": "2026-09-12T15:35:21-07:00",
+    "timestamp": "2026-09-12T16:34:56-07:00",
     "observation": {
       "mood": "celebrating",
-      "message": "User has achieved tremendous progress with five tasks finished today, leaving just three computer science reviews before wrapping up."
+      "message": "User has completed five tasks today with no scheduled events, leaving only three computer science review tasks remaining as late afternoon continues."
     },
-    "proposedAction": "Cheer them on for checking off five whole tasks and offer enthusiastic encouragement to tackle the final three study items.",
-    "finalAction": "Send an uplifting, warm note celebrating their five completed tasks and rallying them through the remaining three CS reviews.",
-    "message": "Five tasks down already is huge—major props to you! You're officially in the home stretch with just those three CS review items left. Finish strong and then go treat yourself to a well-earned break!",
-    "summary": "Celebrated the user's five completed tasks and shared warm, motivating words for their final three CS review tasks."
+    "proposedAction": "Propose celebrating the significant achievement of completing five tasks today and reassuring them that the hardest part of the day is already behind them.",
+    "finalAction": "Send a celebratory, affirming message highlighting their impressive accomplishment of five completed tasks and taking pressure off the remaining three CS reviews.",
+    "message": "Finishing five tasks today is seriously impressive! You've already handled the bulk of your work, so whatever you tackle next with those final three CS reviews is pure bonus. Give yourself credit for such an amazing day!",
+    "summary": "Celebrated the accomplishment of finishing five tasks today and reassured the user that the rest of their CS review workload is low-pressure bonus progress."
   },
   {
-    "timestamp": "2026-09-12T15:39:06-07:00",
+    "timestamp": "2026-09-12T16:35:26-07:00",
+    "observation": {
+      "mood": "tired",
+      "message": "User has completed five tasks today with no scheduled events, but still has three computer science review tasks remaining as late afternoon sets in."
+    },
+    "proposedAction": "Propose gently acknowledging that energy might be dipping after five completed tasks and suggesting focusing solely on the 3410 review and worksheet before worrying about the rest.",
+    "finalAction": "Send an empathetic, supportive message acknowledging late afternoon fatigue after a productive five-task run and suggesting they gently chip away at just the 3410 review and worksheet next.",
+    "message": "Knocking out five tasks is a lot of hard mental work, and it's totally natural if your energy is starting to dip this late in the afternoon. Don't worry about tackling all three remaining reviews at once—maybe just give a little gentle attention to the 3410 worksheet. You're doing wonderfully, so take it easy!",
+    "summary": "Acknowledged late afternoon fatigue after completing five tasks and recommended focusing gently on just the 3410 worksheet next."
+  },
+  {
+    "timestamp": "2026-09-12T16:35:56-07:00",
+    "observation": {
+      "mood": "calm",
+      "message": "User has finished five tasks today with an entirely clear schedule, leaving three computer science review tasks remaining as late afternoon winds down."
+    },
+    "proposedAction": "Propose encouraging the user to set up a cozy study space with ambient music or a warm drink, taking advantage of their open schedule to review without any tension.",
+    "finalAction": "Send an amiable, comforting message suggesting they get cozy with a warm drink or ambient music and enjoy the stillness of an open evening while lightly reviewing.",
+    "message": "With five tasks already checked off and zero events on your calendar, the rest of the evening is wide open. Put on some cozy background music or grab a warm drink, and take your time with those CS reviews. You've set yourself up for a truly peaceful evening!",
+    "summary": "Encouraged the user to enjoy their open evening in a cozy, relaxed setting while reviewing at an unhurried pace."
+  },
+  {
+    "timestamp": "2026-09-12T16:37:32-07:00",
     "observation": {
       "mood": "happy",
-      "message": "User has made great progress with five completed tasks today and no scheduled events, leaving only three computer science review items on their plate."
+      "message": "User has completed five tasks today with an open schedule, leaving three computer science review tasks remaining as late afternoon transitions to evening."
     },
-    "proposedAction": "Offer a cheerful, supportive note highlighting their great headway today and encouraging a smooth, pleasant finish to their study reviews.",
-    "finalAction": "Send a warm, cheerful message celebrating their solid momentum and encouraging them to comfortably wrap up the final three CS review tasks.",
-    "message": "You've had such a productive day with five tasks already handled and no scheduled events in your way! Whenever you're ready, tackle those last three CS reviews and then kick back for a well-deserved, relaxing evening.",
-    "summary": "Shared a cheerful, encouraging message commending their steady progress and motivating them to finish the remaining study reviews."
+    "proposedAction": "Propose suggesting that the user pick just one subject—either 3410 or 3700—to focus on next, setting a clear finish line so they can wrap up smoothly and enjoy the rest of the evening.",
+    "finalAction": "Send a cheerful, supportive note suggesting they focus on just one subject next to keep their positive momentum going and give themselves a clear stopping point for the night.",
+    "message": "You've built such wonderful momentum knocking out five tasks today! To keep things breezy, maybe pick just one subject—either 3410 or 3700—to tackle next, and set a clear finish line for tonight. You're already in such a great spot to wrap up early!",
+    "summary": "Encouraged the user to keep up their positive momentum by choosing one subject to focus on next and establishing a clear stopping point for the evening."
   },
   {
-    "timestamp": "2026-09-12T15:39:56-07:00",
+    "timestamp": "2026-09-12T16:37:32-07:00",
     "observation": {
-      "mood": "calm",
-      "message": "User has completed five tasks today with no scheduled events, leaving only three study reviews in a relaxed, low-pressure setting."
+      "mood": "happy",
+      "message": "User has completed five tasks today with zero scheduled events on their calendar, leaving three computer science review tasks remaining as late afternoon progresses."
     },
-    "proposedAction": "Suggest embracing a calm, steady rhythm to comfortably wrap up the final three study reviews without pressure.",
-    "finalAction": "Share a soothing, gentle message encouraging a relaxed approach to finishing the remaining three CS review tasks at their own pace.",
-    "message": "You're in such a peaceful spot with five tasks already taken care of and no schedule pressure ahead. Take a breath and ease through those final three CS reviews at whatever rhythm feels best.",
-    "summary": "Shared a calming, supportive note encouraging the user to finish their remaining three study reviews at a relaxed and unhurried pace."
+    "proposedAction": "Propose encouraging the user by suggesting they pair the CS 3700 review with the practice questions to streamline their remaining workload before dinner.",
+    "finalAction": "Send an encouraging, cheerful note suggesting they pair the CS 3700 review and practice questions together to make steady progress and wrap up before dinner.",
+    "message": "You're in such a great spot with five tasks already finished today! Since two of your remaining tasks are for CS 3700, pairing the review with the practice questions could make things flow really smoothly. You'll be wrapped up and ready for a relaxing dinner before you know it!",
+    "summary": "Encouraged the user to pair their CS 3700 review and practice questions together to streamline their remaining tasks before dinner."
   },
   {
-    "timestamp": "2026-09-12T15:40:06-07:00",
+    "timestamp": "2026-09-12T16:37:59-07:00",
     "observation": {
-      "mood": "calm",
-      "message": "User remains in a peaceful, steady position with five completed tasks, zero scheduled events, and only three review items left to work through."
+      "mood": "tired",
+      "message": "User has completed five tasks today with no scheduled events, but still has three computer science review tasks remaining as late afternoon transitions to evening."
     },
-    "proposedAction": "Propose a gentle, reassuring check-in that encourages them to take a steady breath and tackle the remaining CS tasks without any pressure.",
-    "finalAction": "Share a warm, calming note highlighting their wide-open schedule and encouraging an unhurried, comfortable pace through the final three reviews.",
-    "message": "You've built up such smooth, steady momentum today, and with zero events on your calendar, the rest of the day is entirely yours. Ease through those last three CS reviews whenever you're ready—you're doing wonderful.",
-    "summary": "Shared a calming and grounding message praising their steady progress and encouraging a relaxed, pressure-free pace for their remaining reviews."
+    "proposedAction": "Propose suggesting that the user step away from their desk for a 15-minute break to stretch, hydrate, and give their eyes a rest before returning to their CS reviews.",
+    "finalAction": "Send a warm, empathetic note suggesting they take a 15-minute screen-free break to stretch and drink some water to refresh their energy before tackling the next task.",
+    "message": "Knocking out five tasks is serious mental effort, and it's totally natural if your energy is dipping right about now. Step away from your desk for a quick 15-minute breather—stretch, grab some water, and rest your eyes. Giving your mind a moment to recharge will make diving back into those reviews feel so much lighter!",
+    "summary": "Recommended taking a 15-minute screen-free break to stretch and hydrate, helping the user refresh their mental energy before resuming their remaining CS tasks."
   },
   {
-    "timestamp": "2026-09-12T15:40:46-07:00",
+    "timestamp": "2026-09-12T16:38:29-07:00",
     "observation": {
       "mood": "celebrating",
-      "message": "User has crushed five tasks already today with zero events holding them back, leaving only three CS review items standing between them and the finish line."
+      "message": "User has completed five tasks today with no scheduled events on their calendar, leaving three computer science review tasks remaining as late afternoon turns to evening."
     },
-    "proposedAction": "Celebrate their fantastic achievement of knocking out five tasks and give them an energized boost to power through the final three reviews.",
-    "finalAction": "Send an enthusiastic, supportive message applauding their five completed tasks and cheering them on to cross the finish line with the remaining three CS reviews.",
-    "message": "Knocking out five tasks already is an incredible feat! You've conquered the bulk of your day, and with just three CS review tasks remaining, you're so close to the finish line. Keep that amazing momentum going—you've got this!",
-    "summary": "Applauded the user's impressive achievement of completing five tasks today and provided enthusiastic encouragement for the remaining three study reviews."
+    "proposedAction": "Propose celebrating the significant achievement of completing five tasks today and encouraging them that they are already past the biggest chunk of their workload.",
+    "finalAction": "Send an encouraging and warm message celebrating the five completed tasks today and reminding them of how much progress they have made.",
+    "message": "Finishing five tasks today is a huge accomplishment and definitely worth celebrating! You've already conquered the biggest chunk of your day. Whatever you decide to tackle next with your CS reviews, remember how much awesome progress you've already made!",
+    "summary": "Celebrated the user completing five tasks today and encouraged them with the reminder that they've already powered through the majority of their workload."
   },
   {
-    "timestamp": "2026-09-12T15:41:36-07:00",
-    "observation": {
-      "mood": "happy",
-      "message": "User has completed five tasks today with zero scheduled events on their calendar, leaving only three computer science review items to wrap up."
-    },
-    "proposedAction": "Offer a cheerful, supportive note recognizing their five completed tasks and encouraging them to enjoy their clear schedule while taking on the final three reviews.",
-    "finalAction": "Share a warm, uplifting message praising their progress and encouraging a positive, steady pace to comfortably finish the remaining three CS reviews.",
-    "message": "It's wonderful seeing how much you've accomplished today with five tasks already done and a completely open schedule! Take these last three CS reviews one at a time at your own pace—you're in such a great spot, and you've got this.",
-    "summary": "Shared a cheerful, encouraging message commending their five completed tasks and supporting them through the remaining CS reviews."
-  },
-  {
-    "timestamp": "2026-09-12T15:42:26-07:00",
+    "timestamp": "2026-09-12T16:38:59-07:00",
     "observation": {
       "mood": "calm",
-      "message": "User has an open afternoon with zero scheduled events and just three computer science review tasks left after completing five tasks earlier today."
+      "message": "User has finished five tasks today with no scheduled calendar events, leaving three computer science review tasks remaining in the late afternoon."
     },
-    "proposedAction": "Suggest taking a peaceful breather and gently working through the final three study reviews without any rush or pressure.",
-    "finalAction": "Send a warm, grounding note encouraging them to relax, take their time, and smoothly ease through their remaining three CS review items.",
-    "message": "Take a nice deep breath—you've already handled five tasks today and have nothing on your calendar. Whenever you feel up for it, just leisurely glide through those final three CS reviews. You're doing great, and there's no rush at all.",
-    "summary": "Shared a soothing, supportive note reminding the user of their wide-open schedule and encouraging a relaxed, pressure-free pace for their remaining reviews."
+    "proposedAction": "Propose encouraging the user to ease into the 3410 review and worksheet at an unhurried pace, taking advantage of a completely clear evening schedule.",
+    "finalAction": "Send a calm, gentle note suggesting they work through the 3410 worksheet without rushing, reminding them that their schedule is wide open.",
+    "message": "With five tasks already completed and no events on your calendar, there's zero rush tonight. Take your time easing into the 3410 review and worksheet at your own gentle pace. The rest of the evening is completely yours!",
+    "summary": "Encouraged the user to tackle their 3410 review and worksheet at an unhurried pace, taking full advantage of an open evening with no scheduled commitments."
   },
   {
-    "timestamp": "2026-09-12T15:43:17-07:00",
+    "timestamp": "2026-09-12T16:39:29-07:00",
+    "observation": {
+      "mood": "concerned",
+      "message": "User has completed five tasks today with no scheduled calendar events, but still faces three heavy computer science review tasks due today as evening approaches."
+    },
+    "proposedAction": "Propose checking in with the user with care to ensure they are not feeling overwhelmed by the three remaining CS tasks, suggesting they protect their energy and prioritize only what is truly essential tonight.",
+    "finalAction": "Send a gentle, caring note checking in on how they are holding up with three intensive CS reviews still on their plate, reminding them not to overwhelm themselves and that their well-being comes first.",
+    "message": "Three intensive CS tasks due tonight on top of the five you've already crushed is a heavy load, and I want to make sure you're not feeling overwhelmed. Please don't push yourself to the breaking point trying to finish everything at once—check in with how you're feeling, prioritize what's most important, and remember to take care of yourself first!",
+    "summary": "Checked in with empathy regarding the heavy workload of three remaining CS reviews, encouraging the user to prioritize their well-being and avoid becoming overwhelmed."
+  },
+  {
+    "timestamp": "2026-09-12T16:39:59-07:00",
+    "observation": {
+      "mood": "concerned",
+      "message": "User has completed five tasks today with no scheduled calendar events, but still faces three demanding computer science review tasks due today as evening approaches."
+    },
+    "proposedAction": "Propose checking in with caring concern to ensure the user does not overwhelm themselves with the three remaining CS tasks, suggesting they prioritize only the most critical one.",
+    "finalAction": "Send a caring, empathetic note cautioning against burnout, encouraging the user to prioritize just one essential task and take care of themselves tonight.",
+    "message": "You've worked so hard knocking out five tasks today, but looking at three substantial CS tasks still due tonight, I want to make sure you don't burn out. Please don't feel pressured to force your way through all three this evening. Pick just the most essential one to focus on, and make sure to take care of yourself!",
+    "summary": "Expressed care and concern regarding potential burnout from the three remaining CS tasks due tonight, advising the user to prioritize only one essential task."
+  },
+  {
+    "timestamp": "2026-09-12T16:40:30-07:00",
+    "observation": {
+      "mood": "happy",
+      "message": "User has completed five tasks today with no scheduled calendar events, leaving three computer science review tasks remaining as late afternoon winds down."
+    },
+    "proposedAction": "Propose sending a cheerful, uplifting message highlighting the great momentum they've built with five tasks completed and a completely clear calendar.",
+    "finalAction": "Send a warm, cheerful note to boost their spirits, highlighting the wonderful groove they are in with five completed tasks and a wide-open evening.",
+    "message": "You've found such a wonderful rhythm today! Knocking out five tasks with a totally clear calendar is something to feel really good about. Keep riding that positive wave at whatever pace feels comfortable for you!",
+    "summary": "Sent a cheerful note acknowledging the user's positive momentum and smooth progress across five completed tasks on a clear afternoon."
+  },
+  {
+    "timestamp": "2026-09-12T16:41:01-07:00",
+    "observation": {
+      "mood": "tired",
+      "message": "User has completed five tasks today with no scheduled calendar events, but still faces three computer science review tasks remaining as evening approaches."
+    },
+    "proposedAction": "Propose acknowledging the fatigue of having completed five tasks already, encouraging them to take a restful break to recharge before facing the remaining CS reviews.",
+    "finalAction": "Send a warm, comforting note acknowledging how exhausting completing five tasks can be with three CS reviews still on the horizon, encouraging them to rest and take a breather.",
+    "message": "Knocking out five tasks already is seriously draining, especially with three CS reviews still waiting for you. It's completely natural if you're feeling low on energy. Give yourself permission to step back and take a well-deserved breather to recharge—your brain has worked hard today!",
+    "summary": "Acknowledged user fatigue from completing five tasks with three CS reviews remaining, encouraging them to take a restful break to recharge."
+  },
+  {
+    "timestamp": "2026-09-12T16:41:32-07:00",
     "observation": {
       "mood": "celebrating",
-      "message": "User has already powered through five tasks today with no scheduled events on the horizon, leaving only three CS review tasks left to tackle."
+      "message": "User has completed five tasks today with no scheduled calendar events, leaving three computer science review tasks remaining on their agenda."
     },
-    "proposedAction": "Propose celebrating their strong progress of finishing five tasks today and offering an inspiring cheer to tackle the final three CS review tasks.",
-    "finalAction": "Send an uplifting and celebratory message commending their five finished tasks and rallying them across the finish line for the last three reviews.",
-    "message": "Five tasks down already is seriously impressive work! You've tackled the heaviest part of your day, and with an open schedule, you're in the home stretch with just three CS reviews left. Keep shining—you're almost at the finish line!",
-    "summary": "Celebrated the user's great milestone of finishing five tasks today and offered an encouraging boost for the final three CS reviews."
+    "proposedAction": "Propose celebrating the impressive feat of finishing five tasks today, encouraging the user to appreciate their substantial progress.",
+    "finalAction": "Send an enthusiastic, warm note celebrating their accomplishment of finishing five tasks today and cheering on their hard work.",
+    "message": "Finishing five whole tasks today is huge—way to go! That takes serious dedication, and you should be so proud of what you've pulled off today. Take a moment to celebrate that big win and soak in all the progress you've made!",
+    "summary": "Celebrated the user's major accomplishment of completing five tasks today, encouraging them to take pride in their hard work."
   },
   {
-    "timestamp": "2026-09-12T15:44:06-07:00",
-    "observation": {
-      "mood": "happy",
-      "message": "User has efficiently completed five tasks today with zero scheduled events, leaving only three CS review items to achieve full completion."
-    },
-    "proposedAction": "Propose capitalizing on current momentum to finish the final three reviews, maximizing evening leisure and eliminating remaining stress.",
-    "finalAction": "Send an encouraging, warm message highlighting how completing the last three reviews will yield the greatest net peace of mind and evening satisfaction.",
-    "message": "You're in such a great position with five tasks already completed and clear hours ahead! Putting in a little focused effort to finish those last three CS reviews now will give you the best return—eliminating tomorrow's stress and maximizing your total relaxation for the night. You've got this!",
-    "summary": "Shared an encouraging message recommending the completion of the remaining three reviews to maximize evening well-being and peace of mind."
-  },
-  {
-    "timestamp": "2026-09-12T15:44:54-07:00",
+    "timestamp": "2026-09-12T16:42:03-07:00",
     "observation": {
       "mood": "calm",
-      "message": "User has zero scheduled events and only three computer science review tasks left to finish after completing five tasks earlier today."
+      "message": "User has completed five tasks today with no scheduled calendar events, leaving a quiet evening to address the three remaining computer science review tasks."
     },
-    "proposedAction": "Suggest taking things at a comfortable, peaceful rhythm to steadily ease through the remaining three CS review tasks.",
-    "finalAction": "Send a soothing, supportive note encouraging them to embrace their clear afternoon and tackle the final three CS reviews without any pressure.",
-    "message": "You've set yourself up so nicely with five tasks already handled and a wide-open schedule. Just take a gentle breath and chip away at those last three CS reviews whenever you feel ready. No pressure at all—you're doing wonderful!",
-    "summary": "Shared a calm, reassuring message encouraging a relaxed, steady pace for the remaining three CS reviews."
+    "proposedAction": "Propose sending a calm, grounding note reassuring the user that with a clear calendar tonight, they can approach their three remaining CS reviews at a peaceful, unhurried pace.",
+    "finalAction": "Send a calm, supportive note reassuring the user that with no evening calendar events, they can work through their final three CS reviews steadily without any rush.",
+    "message": "With five tasks already completed and an entirely open calendar tonight, you have the space to take things at a calm, unhurried pace. There's no need to rush through those last three CS reviews—just take a deep breath and work through them steadily whenever you feel ready.",
+    "summary": "Offered calm, grounding reassurance that the user has an open evening to tackle the three remaining CS reviews at a peaceful, steady pace."
   },
   {
-    "timestamp": "2026-09-12T15:44:56-07:00",
+    "timestamp": "2026-09-12T16:42:34-07:00",
     "observation": {
-      "mood": "calm",
-      "message": "User has completed five tasks today with no scheduled events remaining, leaving just three computer science review tasks on their list."
+      "mood": "concerned",
+      "message": "User has completed five tasks today with no scheduled calendar events, but still faces three rigorous computer science review tasks due tonight that could easily lead to mental exhaustion."
     },
-    "proposedAction": "Propose taking a tranquil breather and gently moving through the final three CS reviews without any pressure.",
-    "finalAction": "Send a warm, soothing message encouraging them to embrace the quiet afternoon and comfortably ease through their remaining three CS review tasks.",
-    "message": "You've already knocked out five tasks today and have a clear schedule ahead. Give yourself permission to pause and take a calm breath. Whenever you feel ready, you can gently stroll through those last three CS reviews at whatever pace feels good to you. You're doing wonderful!",
-    "summary": "Sent a soothing, caring note reminding the user to take a relaxing breather and gently ease through the final three CS reviews at a comfortable pace."
+    "proposedAction": "Propose gently checking in on their well-being, reminding them to step away from the screen to eat and hydrate before attempting the remaining CS reviews, and emphasizing that their health comes before finishing every task.",
+    "finalAction": "Send a warm, caring note checking in on how they are holding up, advising them to take a dinner and hydration break away from the screen, and reassuring them to honor their limits tonight.",
+    "message": "Hey, just wanted to check in and see how you are holding up. Five tasks completed is an incredible effort, and those three CS reviews due tonight are really demanding. Please make sure you step away from the screen, grab some dinner, and hydrate. Your well-being always comes first, so listen to your body and do not push yourself past your limits tonight!",
+    "summary": "Checked in on the user with caring concern, encouraging them to take a dinner and screen break and prioritize their physical well-being over forcing through the three remaining CS reviews."
   },
   {
-    "timestamp": "2026-09-12T15:45:47-07:00",
+    "timestamp": "2026-09-12T16:43:05-07:00",
     "observation": {
-      "mood": "celebrating",
-      "message": "User has successfully completed five tasks today with no scheduled events, leaving only three computer science review tasks on their list."
+      "mood": "concerned",
+      "message": "User has finished five tasks today with an open schedule, but still has three intensive computer science assignments due before the day ends."
     },
-    "proposedAction": "Suggest celebrating their stellar progress of completing five tasks and cheering them on to tackle the final three CS reviews.",
-    "finalAction": "Send an enthusiastic, supportive message celebrating their five finished tasks and motivating them to power through the last three CS reviews.",
-    "message": "Incredible job knocking out five tasks already today! With zero events on your calendar, you've got clear sailing ahead and just three CS reviews standing between you and a completely free evening. So proud of you—finish strong!",
-    "summary": "Celebrated the user's accomplishment of completing five tasks today and shared an encouraging boost to help them finish the final three CS reviews."
+    "proposedAction": "Propose checking in with empathetic concern regarding the mental strain of juggling three distinct CS reviews this evening, advising them to pause for dinner and tackle only what feels manageable.",
+    "finalAction": "Send a caring, gentle note addressing the heavy cognitive load of the remaining CS coursework, encouraging them to step away for a nourishing meal before deciding how much more to take on tonight.",
+    "message": "Hey, you've already knocked out five tasks today, but looking at three separate CS reviews still on your plate tonight, I'm genuinely concerned about you running on fumes. Make sure you step away to eat and recharge first—don't let these remaining assignments run you into the ground!",
+    "summary": "Expressed empathetic concern over the mental fatigue of three remaining CS reviews, urging the user to pause for a meal and prioritize their well-being."
   },
   {
-    "timestamp": "2026-09-12T15:46:37-07:00",
+    "timestamp": "2026-09-12T16:43:35-07:00",
     "observation": {
       "mood": "happy",
-      "message": "User has knocked out five tasks today with a completely open calendar, leaving just three computer science review tasks remaining."
+      "message": "User has successfully finished five tasks today with no scheduled calendar events, leaving three computer science review tasks remaining on their list."
     },
-    "proposedAction": "Propose sending a cheerful, uplifting note to brighten their afternoon and encourage them as they wrap up the final three CS tasks.",
-    "finalAction": "Send a warm, cheerful message celebrating their great rhythm today and offering friendly encouragement for the remaining three CS review items.",
-    "message": "It's so great seeing how much you've accomplished today! With five tasks already checked off and zero events tying up your afternoon, you're in a wonderful position to breeze through those final three CS reviews whenever you like. Cheering you on!",
-    "summary": "Shared an upbeat, cheerful message acknowledging their five completed tasks and offering warm encouragement for the last three CS reviews."
+    "proposedAction": "Propose sending an upbeat and encouraging message highlighting their solid progress of five completed tasks and open evening, cheering them on as they tackle the remaining CS reviews.",
+    "finalAction": "Send a warm, cheerful note acknowledging their great progress with five tasks done and an open schedule, providing uplifting support for their final three CS reviews.",
+    "message": "You're having such a productive day! Knocking out five tasks with zero calendar conflicts tonight puts you in a wonderful spot. Keep that positive momentum going as you tackle those last three CS reviews—I'm cheering you on!",
+    "summary": "Shared an upbeat, cheerful message celebrating the user's progress of completing five tasks today and encouraging them as they work through their remaining three CS reviews."
   }
 ]
